@@ -1,0 +1,77 @@
+body{
+	font-family: 'Raleway', sans-serif;
+	letter-spacing: 1px;
+	background-image: url("train.jpg");
+	color: white;
+
+
+}
+
+h1{
+	font-size: 5em;
+	letter-spacing: 4px;
+	font-family: 'Raleway', sans-serif;
+	color: white;
+
+
+
+}
+
+h3{
+	font-size: 2em;
+	letter-spacing: 3px;
+	background: transparent;
+	color: #ffffff;
+		font-family: 'Raleway', sans-serif;
+ 
+
+
+}
+
+.panel ,.panel-body{
+background: transparent;
+border: 0;
+
+
+}
+
+.panel-primary{
+background: transparent;
+border: 0;
+
+
+}
+
+.panel-title{
+	 color: #A0522D;
+	 font-size: 1.5em;
+	
+
+
+}
+
+.panel > .panel-heading {
+	background: transparent;
+	border-color: #A0522D;
+
+
+}
+
+
+.form-control{
+background: transparent;
+margin-top:5px;
+
+}
+
+.container{
+background-color: rgba(222,184,135, 0.8);
+
+
+}
+
+button[type="submit"] {
+background-color: #A0522D;
+
+
+}
